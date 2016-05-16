@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ConsoleApplication5MarchSevenSix\ConsoleApplication5MarchSevenSix\bin\Debug\ConsoleApplication5MarchSevenSix.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ConsoleApplication5MarchSevenSix\ConsoleApplication5MarchSevenSix\bin\Debug\ConsoleApplication5MarchSevenSix.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ConsoleApplication5MarchSevenSix\ConsoleApplication5MarchSevenSix\bin\Debug\ConsoleApplication5MarchSevenSix.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ConsoleApplication5MarchSevenSix\ConsoleApplication5MarchSevenSix\obj\Debug\ConsoleApplication5MarchSevenSix.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ConsoleApplication5MarchSevenSix\ConsoleApplication5MarchSevenSix\obj\Debug\ConsoleApplication5MarchSevenSix.pdb
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\ConsoleApplication5MarchSevenSix\ConsoleApplication5MarchSevenSix\obj\Debug\ConsoleApplication5MarchSevenSix.csprojResolveAssemblyReference.cache
